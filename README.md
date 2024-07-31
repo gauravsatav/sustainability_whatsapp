@@ -9,4 +9,4 @@ Sustainability Project WhatsApp
 
 * [Facebook Webhook Reset Link](https://developers.facebook.com/apps/832618492158681/whatsapp-business/wa-settings/?business_id=1179309783309975)
 
-* New line - some details
+* New line - some details new
